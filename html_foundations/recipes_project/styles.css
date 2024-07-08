@@ -1,0 +1,15 @@
+p {
+  color: green;
+}
+
+ul li {
+  text-decoration: underline;
+  font-weight: 800;
+}
+
+ol li {
+  border-style: dashed dotted solid double;
+  padding: 5px;
+  border-radius: 8px;
+  margin: 10px;
+}
